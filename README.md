@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&background=00000000&center=true&vCenter=true&width=435&lines=Hi+I'm+Tuan;I+pretty+much+can't+code;Chudmax+Coder;Plus+This+typing+svg+is+actually;so+annoying+to+write+and+read" alt="Typing SVG" /></a>
-<h2>My Idols</h2>
+<h1 align = "left">My Idols</h2>
 <table width="100%">
   <tr>
     <td width="33.3%" align="center">
@@ -33,4 +33,5 @@
   <li>How to cramp 2 months of work into 1 week (Not that i have any work)</li>
   <li>Healthmax</li>
   <li>Bulding Tunnels in NYC</li>
+
 </ul>
