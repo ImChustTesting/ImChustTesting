@@ -15,7 +15,7 @@
     </td>
     <td width="33.3%" align="center">
       <h3><a href="https://en.wikipedia.org/wiki/Terry_A._Davis">Terry A. Davis</a></h3>
-      <img src="" width="320" height="320" />
+      <img src="./assets/TAD.jpg" width="320" height="320" />
     </td>
   </tr>
 </table>
