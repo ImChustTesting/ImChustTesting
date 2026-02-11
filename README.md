@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&background=00000000&center=true&vCenter=true&width=435&lines=Hi+I'm+Tuan;I+pretty+much+can't+code;Chudmax+Coder;My+favorite+color+is+#420B69" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&background=00000000&center=true&vCenter=true&width=435&lines=Hi+I'm+Tuan;I+pretty+much+can't+code;Chudmax+Coder;My+favorite+color+is+420B69" alt="Typing SVG" /></a>
 
 <table width="100%">
   <tr>
@@ -30,5 +30,6 @@
   <br />
   <img src="https://novatorem.vercel.app/api/spotify" />
 </details>
+
 
 
