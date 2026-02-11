@@ -23,7 +23,7 @@
 <details>
   <summary><b>My Techie Stackie</b></summary>
   <br />
-  <img src="https://skillicons.dev/icons?i=react,js,ts,python,docker,aws" />
+  <img src="https://skillicons.dev/icons?i=react,js,ts,python,html,githubactions,cloudflare" />
 </details>
 
 </div>
