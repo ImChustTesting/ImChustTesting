@@ -7,15 +7,15 @@
   <tr>
     <td width="33.3%" align="center">
       <h3><a href="https://www.youtube.com/@namvan1796">Nam Van Nguyen</a></h3>
-      <img src="./assets/namvang"/>
+      <img src="./assets/namvang" width="200" height="200" />
     </td>
     <td width="33.3%" align="center">
       <h3><a href="https://github.com/sylvanfranklin">Sylvan Franklin</a></h3>
-      <img src="./assets/SF.png"/>
+      <img src="./assets/SF.png" width="200" height="200" />
     </td>
     <td width="33.3%" align="center">
       <h3><a href="https://en.wikipedia.org/wiki/Terry_A._Davis">Terry A. Davis</a></h3>
-      <img src="./assets/TAD.jpg"/>
+      <img src="./assets/TAD.jpg" width="200" height="200" />
     </td>
   </tr>
 </table>
