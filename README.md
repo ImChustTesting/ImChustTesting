@@ -29,7 +29,6 @@
 <h1>"What I'm Currently Learning"</h1>
 <ul>
   <li>Supa base, Langchain, How to be confident</li>
-  <li>The Art of Having Fun during Tet</li>
   <li>How to cramp 2 months of work into 1 week (Not that i have any work)</li>
   <li>Healthmax</li>
   <li>Bulding Tunnels in NYC</li>
@@ -38,5 +37,6 @@
 
 
 https://github.com/user-attachments/assets/a50bdb05-d541-4771-9efe-58626a01da19
+
 
 
