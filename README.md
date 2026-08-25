@@ -4,15 +4,11 @@
 <h1 align = "left">My Idols</h2>
 <table width="100%">
   <tr>
-    <td width="33.3%" align="center">
-      <h3><a href="https://www.youtube.com/@namvan1796">Nam Van Nguyen</a></h3>
-      <img src="./assets/namvang" width="320" height="320" />
-    </td>
-    <td width="33.3%" align="center">
+    <td width="50%" align="center">
       <h3><a href="https://github.com/sylvanfranklin">Sylvan Franklin</a></h3>
       <img src="./assets/SF.png" width="320" height="320" />
     </td>
-    <td width="33.3%" align="center">
+    <td width="50%" align="center">
       <h3><a href="https://en.wikipedia.org/wiki/Terry_A._Davis">Terry A. Davis</a></h3>
       <img src="./assets/TAD.jpg" width="320" height="320" />
     </td>
