@@ -32,7 +32,4 @@
 </ul>
 
 
-https://github.com/user-attachments/assets/a50bdb05-d541-4771-9efe-58626a01da19
-
-
 
